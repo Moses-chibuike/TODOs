@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import { Routes, Route } from 'react-router-dom';
 
 import Home from '@/routes/Home';

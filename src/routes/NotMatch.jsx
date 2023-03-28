@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 const NotMatch = () => {
   return (
     <div>

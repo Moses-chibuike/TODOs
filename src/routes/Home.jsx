@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import Header from '@/components/Header';
 import TodosLogic from '@/components/TodosLogic';
 

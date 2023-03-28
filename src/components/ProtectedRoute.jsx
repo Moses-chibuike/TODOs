@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import { Navigate, useLocation } from 'react-router-dom';
 
 import { useAuthContext } from '@/context/AuthContext';

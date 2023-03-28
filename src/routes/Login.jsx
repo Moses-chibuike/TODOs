@@ -1,3 +1,4 @@
+/* eslint-disable react/button-has-type */
 import { useState } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 
