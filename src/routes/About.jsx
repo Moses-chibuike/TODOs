@@ -1,4 +1,4 @@
-/* eslint-disable react/button-has-type */
+/* stylelint-disable */
 import Header from '@/components/Header';
 import { NavLink, Outlet } from 'react-router-dom';
 const About = () => {

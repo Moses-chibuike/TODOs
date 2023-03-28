@@ -1,4 +1,4 @@
-/* eslint-disable react/button-has-type */
+/* stylelint-disable */
 import { useParams } from 'react-router-dom';
 
 const aboutData = [
